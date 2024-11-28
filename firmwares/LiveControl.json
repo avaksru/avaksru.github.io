@@ -1,27 +1,27 @@
 {
 	"files": [
 		{
-			"addr": "0x00001000",
+			"addr": "0x1000",
 			"link": "firmwares/LiveControl/bootloader.bin",
 			"data": ""
 		},
 		{
-			"addr": "0x00008000",
+			"addr": "0x8000",
 			"link": "firmwares/LiveControl/partitions.bin",
 			"data": ""
 		},
 		{
-			"addr": "0x00010000",
+			"addr": "0x10000",
 			"link": "firmwares/LiveControl/firmware.bin",
 			"data": ""
 		},
 		{
-			"addr": "0x00310000",
+			"addr": "0x310000",
 			"link": "firmwares/LiveControl/littlefs.bin",
 			"data": ""
 		},
 		{
-			"addr": "0x0000e000",
+			"addr": "0xe000",
 			"link": "firmwares/LiveControl/boot_app0.bin",
 			"data": ""
 		}
