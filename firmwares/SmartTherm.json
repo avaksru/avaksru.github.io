@@ -1,0 +1,32 @@
+{
+	"files": [
+		{
+			"addr": "0x10000",
+			"link": "firmwares/SmartTherm/firmware.bin",
+			"data": ""
+		},
+		{
+			"addr": "0xe000",
+			"link": "firmwares/SmartTherm/boot_app0.bin",
+			"data": ""
+		},
+		{
+			"addr": "0x8000",
+			"link": "firmwares/SmartTherm/partitions.bin",
+			"data": ""
+		},
+		{
+			"addr": "0x1000",
+			"link": "firmwares/SmartTherm/bootloader.bin",
+			"data": ""
+		}
+	],
+	"order": {
+		"projectProp": {
+			"platform": {
+				"default_envs": "esp32",
+				"fwname": "1"
+			}
+		}
+	}
+}

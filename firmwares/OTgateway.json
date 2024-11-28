@@ -1,0 +1,22 @@
+{
+	"files": [
+		{
+			"addr": "0x370000",
+			"link": "firmwares/OTgateway/filesystem_nodemcu_32_1.4.6.bin",
+			"data": ""
+		},
+		{
+			"addr": "0x0",
+			"link": "firmwares/OTgateway/firmware_nodemcu_32_1.4.6.factory.bin",
+			"data": ""
+		}
+	],
+	"order": {
+		"projectProp": {
+			"platform": {
+				"default_envs": "esp32",
+				"fwname": "3"
+			}
+		}
+	}
+}
