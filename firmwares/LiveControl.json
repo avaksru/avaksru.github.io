@@ -2,27 +2,27 @@
 	"files": [
 		{
 			"addr": "0x00001000",
-			"link": "firmwares/SmartTherm/bootloader.bin",
+			"link": "firmwares/LiveControl/bootloader.bin",
 			"data": ""
 		},
 		{
 			"addr": "0x00008000",
-			"link": "firmwares/SmartTherm/partitions.bin",
+			"link": "firmwares/LiveControl/partitions.bin",
 			"data": ""
 		},
 		{
 			"addr": "0x00010000",
-			"link": "firmwares/SmartTherm/firmware.bin",
+			"link": "firmwares/LiveControl/firmware.bin",
 			"data": ""
 		},
 		{
 			"addr": "0x00310000",
-			"link": "firmwares/SmartTherm/littlefs.bin",
+			"link": "firmwares/LiveControl/littlefs.bin",
 			"data": ""
 		},
 		{
 			"addr": "0x0000e000",
-			"link": "firmwares/SmartTherm/boot_app0.bin",
+			"link": "firmwares/LiveControl/boot_app0.bin",
 			"data": ""
 		}
 	],
